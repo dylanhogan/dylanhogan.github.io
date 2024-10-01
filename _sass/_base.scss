@@ -3,7 +3,11 @@
  ******************************************************************************/
 
 // Typography
-
+body {
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
+  Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-weight: 300;
+}
 p,
 h1,
 h2,
@@ -198,7 +202,6 @@ ul.task-list input[type="checkbox"] {
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
-    font-family: Helvetica;
 
     p {
       display: inline-block;
