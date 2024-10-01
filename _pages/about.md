@@ -6,7 +6,7 @@ subtitle: PhD Candidate · Sustainable Development · Columbia SIPA
 
 profile:
   align: right
-  image: headshot.jpg
+  image: headshot.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>New York, New York</p>
