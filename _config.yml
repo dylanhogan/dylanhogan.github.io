@@ -52,14 +52,14 @@ navbar_fixed: true
 footer_fixed: true
 search_enabled: false
 socials_in_search: true
-bib_search: true
+bib_search: false
 
 # Dimensions
 max_width: 930px
 
 # TODO: add layout settings (single page vs. multi-page)
 
-# -----------------------------------------------------------------------------
+# --------------------------------git ---------------------------------------------
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.

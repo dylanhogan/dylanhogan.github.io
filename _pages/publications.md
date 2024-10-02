@@ -15,17 +15,12 @@ nav_order: 2
 {% include bib_search.liquid %}
 
 ### Active projects 
-\
-The global freshwater resource costs of climate change accounting for agricultural land use \\
-Dylan Hogan, Tamma Carleton, and Jon Proctor \\
-\
-The role of institutions in agricultural adapation to climate change \\
-Dylan Hogan and Wolfram Schlenker \\
-\
-The environmental benefits of local conservation investments \\
-Dylan Hogan, Eyal Frank, Joséphine Gantois, and Anouch Missirian
+
+<div class="publications">
+  {% bibliography --query @*[working=true]* %}
+</div>  <br />
 
 ### Publications
 <div class="publications">
-{% bibliography %}
+  {% bibliography --query @*[working=false]* %}
 </div>
