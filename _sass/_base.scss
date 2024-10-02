@@ -2,10 +2,9 @@
  * Styles for the base elements of the theme.
  ******************************************************************************/
 
-// Typography
 body {
-  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", 
-  Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-family: "HelveticaNeue-Thin", "Helvetica Neue Light", "Helvetica Neue", 
+  "Helvetica Light", Arial, "Lucida Grande", sans-serif;
   font-weight: 300;
   color: #666666;
 }
@@ -22,6 +21,33 @@ li,
 span,
 strong {
   color: var(--global-text-color);
+}
+
+
+// Typography
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.75rem;
+}
+
+h3 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+h4 {
+  font-size: 1.25rem;
+}
+
+h5 {
+  font-size: 1rem;
+}
+
+h6 {
+  font-size: 0.875rem;
 }
 
 hr {
