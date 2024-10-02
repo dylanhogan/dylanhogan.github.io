@@ -23,8 +23,7 @@ The role of institutions in agricultural adapation to climate change \\
 Dylan Hogan and Wolfram Schlenker \\
 \
 The environmental benefits of local conservation investments \\
-Dylan Hogan, Josephine Gantois, Anouch Misirian, 
-
+Dylan Hogan, Eyal Frank, Joséphine Gantois, and Anouch Missirian
 
 ### Publications
 <div class="publications">
