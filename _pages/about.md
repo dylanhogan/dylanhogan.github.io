@@ -14,7 +14,7 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page 
 ---
 
 I am a PhD student in Sustainable Development at Columbia University SIPA. I'm broadly interested in issues related to climate change and economic development, with particular interest in the role of adaptation mechanisms in reducing impacts to humans and ecosystems. Most recently, I'm interested in  topics related to agriculture and water availability.
