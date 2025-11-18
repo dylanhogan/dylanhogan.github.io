@@ -9,4 +9,4 @@ toc:
   sidebar: left
 ---
 
-<object data="../assets/pdf/Dylan_Hogan_CV_0625.pdf" width="1000" height="1000" type='application/pdf'/>
+<object data="../assets/pdf/Dylan_Hogan_CV.pdf" width="1000" height="1000" type='application/pdf'/>
